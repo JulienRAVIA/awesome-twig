@@ -65,7 +65,7 @@ There's also a lot of frameworks & cms created by community using twig. There is
 - [jasny/twig-extensions](https://github.com/jasny/twig-extensions) - Bunch of awesome twig extensions by [jasny](https://github.com/jasny)
 - [kzykhys/twig-extensions](https://github.com/kzykhys/TwigExtensions) - Bunch of awesome twig extensions by [kzykhys](https://github.com/kzykhys)
 - [vudaltsov-legacy/twig-extensions](https://github.com/vudaltsov-legacy/twig-extensions) - Bunch of awesome twig extensions by [kzykhys](https://github.com/kzykhys)
-- [vudaltsov-legacy/twig-extensions](https://github.com/JMB-Technology-Limited/Twig-Extensions) - Bunch of awesome twig extensions by [JMB-Technology-Limited](https://github.com/JMB-Technology-Limited)
+- [JMB-Technology-Limited/twig-extensions](https://github.com/JMB-Technology-Limited/Twig-Extensions) - Bunch of awesome twig extensions by [JMB-Technology-Limited](https://github.com/JMB-Technology-Limited)
 - [SortByField](https://github.com/victorhaggqvist/Twig-sort-by-field) - A Twig Extension filter to sort an array of entries (objects or arrays) by an entry field.
 - [Assetic](https://github.com/kriswallsmith/assetic#twig) - Twig extension of PHP assets manager
 - [Asset Version](https://github.com/ivoba/twig-asset-version-extension) - Render versioned asset filenames in twig.
