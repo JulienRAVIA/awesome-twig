@@ -1,4 +1,4 @@
-## Awesome Twig [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![license](https://img.shields.io/github/license/JulienRAVIA/awesome-twig.svg)](https://github.com/JulienRAVIA/awesome-twig/)
+## Awesome Twig [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://www.drupal.org/files/styles/grid-3/public/project-images/twig_1.png?itok=NFV7dbE1" align="right" width="150">](https://twig.symfony.com)
 
