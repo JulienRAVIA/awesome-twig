@@ -55,6 +55,7 @@ There's also a lot of frameworks & cms created by community using twig. There is
 ### Extensions
 #### [Packagist](https://packagist.org/?q=twig%20extension&p=0)
 
+- [Paginator Twig Extension](https://github.com/morozgrafix/PaginatorTwigExtension) - Twig extension to help generate simple paginations in Twig templates.
 - [Truncate Text](https://github.com/dzango/TwigTruncateExtension) - A custom twig extension to truncate text while preserving HTML tags.
 - [HTML Compress](https://github.com/nochso/html-compress-twig) - Twig extension for compressing HTML and inline CSS/JS using WyriHaximus/HtmlCompress
 - [Breakpoints](https://github.com/ajgarlag/AjglBreakpointTwigExtension) - Twig extension to set breakpoints
