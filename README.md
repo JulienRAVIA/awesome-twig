@@ -141,6 +141,7 @@ _Coming soon_
 
 ### Javascript Alternatives
 
+- [twing](https://github.com/NightlyCommit/twing) - JS implementation of the Twig Templating Language (compatible with Twig 1, 2 and 3)
 - [twig.js](https://github.com/twigjs/twig.js) - JS implementation of the Twig Templating Language
 - [swig](https://github.com/paularmstrong/swig) - JS implementation of the Twig Templating Language²
 - [Nunjucks](http://mozilla.github.io/nunjucks/) - JS implementation of the Twig Templating Language³
