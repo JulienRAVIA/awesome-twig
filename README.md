@@ -113,6 +113,7 @@ There's also a lot of frameworks & cms created by community using twig. There is
 - [List Loop](https://github.com/aaronadal/twig-list-loop) - A different way to display lists, grids and tables in Twig: the list loop.
 - [faker](https://github.com/alanablett/twig-faker) - Integration of PHP [faker](https://github.com/fzaninotto/Faker) library with the twig templating system.
 - [Twital](https://github.com/goetas/twital) - It's a plugin for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
+- [Relative Path](https://github.com/diasfs/twig-relative-path) - A Twig extension that allows to include and extends templates using relative paths.
 
 ### Snippets
 
